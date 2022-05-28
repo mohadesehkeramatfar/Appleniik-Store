@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b889fd45.css",
+    "main.js": "/static/js/main.01f9f611.js",
+    "static/media/124925.jpg": "/static/media/124925.a3ac158f3f26ff2f0db3.jpg",
+    "static/media/0 mv8MNRLDNNnt5f72.gif": "/static/media/0 mv8MNRLDNNnt5f72.f26594c12d89ea136724.gif",
+    "static/media/83427d.jpg": "/static/media/83427d.09e92794227e4d44854c.jpg",
+    "static/media/56d159.jpeg": "/static/media/56d159.96c33031e73fe7c41ea1.jpeg",
+    "static/media/247ad0.jpg": "/static/media/247ad0.7cd114c4ba6aacf7c203.jpg",
+    "static/media/Vazir-Bold.woff": "/static/media/Vazir-Bold.8a6538859ac709ea69b2.woff",
+    "static/media/39bd0f.jpg": "/static/media/39bd0f.82d67bade442ebb29a19.jpg",
+    "static/media/Vazir-Regular.woff": "/static/media/Vazir-Regular.f413b786be3bb85ed059.woff",
+    "static/media/b.png": "/static/media/b.d7794ef9afe2fabe993c.png",
+    "static/media/sad.gif": "/static/media/sad.b76cec5fe05f9de9fab0.gif",
+    "index.html": "/index.html",
+    "main.b889fd45.css.map": "/static/css/main.b889fd45.css.map",
+    "main.01f9f611.js.map": "/static/js/main.01f9f611.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b889fd45.css",
+    "static/js/main.01f9f611.js"
+  ]
+}

@@ -1,0 +1,46 @@
+@import url("/src/assets/Font.css");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer base{
+          [type='text'],
+          [type='email'],
+          [type='url'],
+          [type='password'],
+          [type='number'],
+          [type='date'],
+          [type='datetime-local'],
+          [type='month'],
+          [type='search'],
+          [type='tel'],
+          [type='time'],
+          [type='week'],
+          [multiple],
+          textarea,
+      
+         [type='checkbox'],
+         [type='radio']{
+           @apply rounded;
+         }
+}
+
+.fade-anim img {
+    animation: fadeAnim 0.8s ease-out;
+  }
+  @keyframes fadeAnim {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  
+
+
+
+
